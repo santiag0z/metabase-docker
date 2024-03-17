@@ -15,7 +15,7 @@ cp .env.example .env
 > [!NOTE]  
 >Change the environment variables in the .env file according to your needs.
 
-## start containers
+## Start containers
 ```
 docker-compose up -d
 ```
